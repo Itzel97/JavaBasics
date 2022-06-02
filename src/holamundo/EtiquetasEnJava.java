@@ -4,20 +4,11 @@
  */
 package holamundo;
 
-/**
- *
- * @author itzel
- */
-public class CicloWhile {
+public class EtiquetasEnJava {
+    
     public static void main (String args[]){
     
-         var contador = 0;
          
-         while(contador < 3){       
-             System.out.println("contador = " + contador);
-             contador++;       
-         }
-        
         
     }
     
